@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Born and raised in Galati, Romania - currently living in Strasbourg, France.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a **php backend developer** working with **Symfony2** _(and loving it)_. 
 
-### Contact me
+I'm not very good at talking about myself so if you have any questions - just ask :)
 
-[email@domain.com](mailto:email@domain.com)
+### Personal Blog
+
+If all this tech stuff is not for you, you can easily follow my personal blog @ [www.iamchris.info](http://www.iamchris.info)
+
