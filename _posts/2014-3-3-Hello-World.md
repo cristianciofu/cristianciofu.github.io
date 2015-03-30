@@ -1,10 +1,22 @@
 ---
 layout: post
-title: You're up and running!
+title: Tech me up
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Back in february 2015 I decided to move [my personal blog](http://www.iamchris.info) from Tumblr. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+And I did it. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Then I said to myself that I would post on the blog both personal and technical posts. 
+
+But, after thinking about it a little more, I decided that maybe it's not such a good idea to mix it all. 
+
+> Beside that, writing tech related blog posts in english it's a good way to improve my "english skills".
+
+So what was the best solution for a tech mini-blog? Well - **GitHub** of course :)
+
+It's simple, it has _syntax-highlighting_ support out of the box and it supports **Markdown**.
+
+Here I'll add different stuff I consider interesting : code snippets / links / cool stuff - mostly related to web development.
+
+Et voilà... let's do this :) 
