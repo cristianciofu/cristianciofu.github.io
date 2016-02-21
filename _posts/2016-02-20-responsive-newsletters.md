@@ -3,7 +3,7 @@ layout: post
 title: Responsive Newsletters
 ---
 
-The newsletters are for the heart of a business. There's almost no website that doesn't send newsletters to its users.
+The newsletters are an important part of any business. There's almost no website that doesn't send newsletters to its users.
 
 > But, can these newsletters be... responsive? 
 
