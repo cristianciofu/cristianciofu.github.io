@@ -17,4 +17,4 @@ The needed code :
 
 And a little demo : 
 
-{% youtube 9WRfC5laXaM %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9WRfC5laXaM" frameborder="0" allowfullscreen></iframe>
